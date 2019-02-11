@@ -9,7 +9,7 @@ public class NewEntity {
 
     private String name;
 
-    public Position(String id, String name) {
+    public NewEntity(String id, String name) {
         this.id = id;
         this.name = name;
     }
