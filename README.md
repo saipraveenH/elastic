@@ -1,2 +1,0 @@
-# elastic
-all elastic
